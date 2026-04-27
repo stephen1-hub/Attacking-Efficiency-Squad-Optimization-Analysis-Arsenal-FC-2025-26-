@@ -1,0 +1,23 @@
+arsenal-analysis/
+│
+├── data/
+│   └── arsenal_players_2025_26.csv
+│
+├── notebooks/
+│   └── 01_analysis.ipynb
+│
+├── src/
+│   ├── data_processing.py
+│   ├── metrics.py
+│   └── visualization.py
+│
+├── outputs/
+│   ├── finishing_plot.png
+│   ├── threat_ranking.csv
+│   └── insights.txt
+│
+├── app/
+│   └── app.py   (Streamlit dashboard)
+│
+├── README.md
+└── requirements.txt
