@@ -1,7 +1,7 @@
 arsenal-analysis/
 │
 ├── data/
-│   └── arsenal_players_2025_26.csv
+│   └── Arsenal team-players 2025_2026.xlsx
 │
 ├── notebooks/
 │   └── 01_analysis.ipynb
@@ -17,7 +17,11 @@ arsenal-analysis/
 │   └── insights.txt
 │
 ├── app/
-│   └── app.py   (Streamlit dashboard)
+│   └── app7.py   (Streamlit dashboard)
 │
 ├── README.md
 └── requirements.txt
+import streamlit as st
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
