@@ -14,6 +14,8 @@ Max Dowman and Gabriel Jesus show high per-90 attacking output
 🎯 Finishing
 Eberechi Eze significantly overperforms xG (potential regression)
 Viktor Gyökeres shows stable, reliable finishing
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8e15a3d8-4618-43ef-af68-8b73f6d5f3a5" />
+
 🧠 Creativity
 Martin Ødegaard is the primary creative hub
 Supporting creators include Trossard and Martinelli
